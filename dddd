@@ -1,0 +1,7 @@
+echo "# leo-mundo-kiwi" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/leoderhye200/leo-mundo-kiwi.git
+ git push -u maestro de origen
+                
